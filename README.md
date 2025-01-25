@@ -14,7 +14,7 @@ Este projeto, da disciplina de Arquitetura de Computadores da UFPI (Universidade
 - Demonstração da execução do algoritmo em ambas as linguagens.
 
 ## Estrutura do Projeto
-
+- __OBS: Primeiramente, o arquivo `trabalho_de_arquitetura.zip` deve ser descompactado.__ <br><br>
 - `algoritmosoubel4.asm`: Código Assembly que implementa o Filtro de Sobel.
 - `app.py`: Script Python que contém a implementação do Filtro de Sobel e a lógica para leitura e exibição das imagens.
 - `4.png e imagem_filtrada.png`: 2 arquivos de imagem que representam a imagem original e a imagem que vai receber o filtro. As imagens são, inicialmente, iguais.
